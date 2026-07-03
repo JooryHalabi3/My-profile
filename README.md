@@ -47,9 +47,8 @@ Built as part of a 4-system enterprise platform during my internship. Repositori
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JooryHalabi3&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JooryHalabi3&show_icons=true&theme=dark&hide_border=true" />
 </p>
-
 ---
 
 <p align="center">
