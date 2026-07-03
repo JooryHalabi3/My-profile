@@ -32,7 +32,7 @@ Recent Software Engineering graduate (GPA 3.7/4.0, Second Honors) from Umm Al-Qu
 
 **Tanabbah — AI-Powered Vehicle Diagnostics Platform**
 Full-stack mobile app (React Native + Supabase) for OBD-II vehicle diagnostics, built with a 5-person team. Responsible for the backend, database design, and real-time OBD-II data integration supporting 114 diagnostic trouble codes, plus the frontend for the diagnostics report screen.
-**
+
 🔗 **Live App:** [Live Demo](https://tnabbah.vercel.app)
 *(Repository is private due to team ownership — happy to walk through the code in an interview.)*
 
