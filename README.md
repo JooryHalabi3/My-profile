@@ -43,11 +43,12 @@ Built as part of a 4-system enterprise platform during my internship. Repositori
 - **Aounak – Complaint & Feedback Management System:** RBAC authentication, reporting dashboards (Chart.js), notifications, and Arabic/English multilingual support.
 
 ---
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JooryHalabi3&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/JooryHalabi3?label=Followers&style=for-the-badge&color=C89B3C" />
+  <img src="https://img.shields.io/github/stars/JooryHalabi3?label=Stars&style=for-the-badge&color=C89B3C" />
 </p>
+
 ---
 
 <p align="center">
