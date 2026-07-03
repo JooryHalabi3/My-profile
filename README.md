@@ -46,12 +46,5 @@ Built as part of a 4-system enterprise platform during my internship. Repositori
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/JooryHalabi3?label=Followers&style=for-the-badge&color=C89B3C" />
-  <img src="https://img.shields.io/github/stars/JooryHalabi3?label=Stars&style=for-the-badge&color=C89B3C" />
-</p>
-
----
-
-<p align="center">
   <i>Open to Full Stack Software Engineer graduate programs across Saudi Arabia 🇸🇦</i>
 </p>
